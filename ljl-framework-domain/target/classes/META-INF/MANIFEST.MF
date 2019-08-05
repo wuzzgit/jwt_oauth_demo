@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ljl-framework-domain
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.ljl
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/ljl-architec
+ ture-spring-cloud/ljl-framework-domain/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
